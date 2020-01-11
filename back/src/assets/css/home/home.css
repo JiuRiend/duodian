@@ -1,0 +1,58 @@
+/*
+ * @Author: jiaze 
+ * @Date: 2019-09-03 12:02:10 
+ * @Last Modified by: xiaoyu
+ * @Last Modified time: 2019-09-18 08:35:24
+ */
+.ant-layout-header {
+  background: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ant-layout-header .logo img {
+  width: 145px;
+}
+
+.ant-layout-sider-children {
+  width: 100%;
+  overflow: auto;
+}
+
+.ant-layout-sider-children ul {
+  width: 100% !important;
+  height: 100%;
+}
+
+.user {
+  border: none;
+  width: 106px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+
+.user span {
+  width: 30px;
+  height: 30px;
+  background: #ccc;
+  border-radius: 50%;
+}
+
+.user b {
+  font-size: 18px;
+}
+
+.user img {
+  width: 30px;
+  height: 30px;
+  background: #ccc;
+  border-radius: 50%;
+}
+
+.user:hover {
+  background: #eee;
+  color: #000;
+}

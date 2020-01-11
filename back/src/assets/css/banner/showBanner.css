@@ -1,0 +1,22 @@
+.add-banner-wrapper {
+    width: 100%;
+    height: 120px;
+}
+
+.add-banner-upload {
+    width: 130px;
+    padding-left: 14px;
+}
+
+.show-banner-wrapper {
+    margin-top: 20px;
+}
+
+.show-banner-img {
+    height: 60px;
+}
+
+.show-banner-del {
+    color: rgb(45, 45, 250);
+    cursor: pointer;
+}
